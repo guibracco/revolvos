@@ -1,2 +1,2 @@
 # revolvos
-The Earth revolvos around the Sun.
+The Earth Revolvos around the Sun.
