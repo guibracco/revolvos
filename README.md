@@ -1,7 +1,9 @@
 # revolvos
-The Earth Revolvos around the Sun.
+## The Earth Revolvos around the Sun.
 
-Predictive maintenance of Volvo Group truck fleet.
+---
+
+**Predictive maintenance of Volvo Group truck fleet.**
 
 With focus on sustainable service growth, analysed and processed large buckets of data on AWS cloud to formulate hypotheses regarding predictive maintenance. The data were then used in a regression model to measure the correlation of the variables with severe faults and fed into a machine learning model to predict when those faults were more likely to happen. How to anticipate when a truck was more likely to have a severe fault so that they could do maintenance before it happened, thus reducing downtime and, of course, loss of money.
 
